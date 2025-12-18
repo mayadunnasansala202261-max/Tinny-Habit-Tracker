@@ -65,8 +65,8 @@ Here’s a visual walkthrough of the project:
 | ![t2](t2.PNG) | **Login Page** – Secure login for returning users |
 | ![t3](t3.PNG) | **Dashboard** – Main dashboard showing all habits and tasks |
 | ![t4](t4.PNG) | **Dashboard Dark Mode** – Same dashboard with dark theme |
-| ![t6](t6.PNG) | **Habit Details Page** – View and edit tasks of a specific habit |
-| ![t7](t7.PNG) | **Profile Page** – Edit user profile and settings |
+| ![t7](t7.PNG) | **Habit Details Page** – View and edit tasks of a specific habit |
+| ![t6](t6.PNG) | **Profile Page** – Edit user profile and settings |
 
 ---
 
